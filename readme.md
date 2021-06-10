@@ -1,3 +1,6 @@
+## composer create-project laravel/laravel example-app
+`foi usando o comado acima pra criar, ainda nao foi feita nenhuma mudança`
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
